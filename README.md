@@ -1,4 +1,4 @@
-# firechat-vue
+# Vue-FireChat
 
 ## Project setup
 ```
